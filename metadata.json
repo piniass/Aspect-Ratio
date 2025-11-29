@@ -1,0 +1,5 @@
+{
+  "name": "Aspect Ratio AI",
+  "description": "Upload an image and intelligently resize or expand it to different aspect ratios (9:16, 4:3, 3:4, etc.) using Google Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
